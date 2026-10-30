@@ -1,6 +1,6 @@
 cask "deskjump" do
-  version "1.0.0"
-  sha256 "1a12f5e2092d953fefa4ef0fe9cac897145a4acb44871e932722a9c1ffba6d86"
+  version "1.0.1"
+  sha256 "56b3e87c8e21eca09610ea17a040aa56f1525bf97c08bfe758b2c2a12c674dcc"
 
   url "https://github.com/kaifacun/deskjump/releases/download/v#{version}/DeskJump-#{version}.zip"
   name "DeskJump"
